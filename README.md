@@ -1,7 +1,3 @@
-Вот финальный блок для README:
-
----
-
 This repository contains the practical part of the diploma thesis by **Nurmuhammed Sabyrbayev**, student of Nukus State Technical University, on the topic *"Application of Machine Learning and Data Analysis Methods for Forecasting Economic Indicators"*.
 
 The repository includes 2 datasets: **Share of Fixed Capital Investment in GDP** and **Fixed Capital Investment Volume (Quarterly)**, sourced from the official website of the National Statistics Committee of the Republic of Uzbekistan (https://stat.uz/ru/ofitsialnaya-statistika/investments), and 2 Jupyter Notebook files with Python/pandas scripts for analysis and forecasting of economic indicators.
